@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Extrait de lettres ecrites en divers temps par le Sieur Steward a un correspondant, dont il parle dans la lettre, dattee d'Edimbourg le 8. de Maie 1688. Traduits de l'anglois et du flamand.</title>
+            <author>Steward, Jacques.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01849</idno>
+            <idno type="STC">Wing B5792A</idno>
+            <idno type="STC">ESTC R173326</idno>
+            <idno type="EEBO-CITATION">47013629</idno>
+            <idno type="OCLC">ocm 47013629</idno>
+            <idno type="VID">174298</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174298)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2682:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Extrait de lettres ecrites en divers temps par le Sieur Steward a un correspondant, dont il parle dans la lettre, dattee d'Edimbourg le 8. de Maie 1688. Traduits de l'anglois et du flamand.</title>
+                  <author>Steward, Jacques.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Chez Jacques Scheltus ...,</publisher>
+                  <pubPlace>A La Haye,</pubPlace>
+                  <date>M.DC.LXXXVIII. [1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On title page: "Avec un Avertissement de M. Fagel Pensionnaire de leurs Grandes Puissances, Nosseigneurs les Etats de Hollande &amp; de West-Frise."</note>
+                  <note>"Au lecteur" signed by Gasp. Fagel, Aug. 25 1688, p. 3-4.</note>
+                  <note>In French and English.</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fagel, Gaspar 1634-1688.</term>
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>United Provinces of the Netherlands --  Staten Generaal.</term>
+               <term>Great Britain --  Politics and government --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div xml:lang="fre" type="title_page">
+            <pb facs="tcp:174298:1" rendition="simple:additions"/>
+            <p>EXTRAIT DE LETTRES ECRITES EN DIVERS TEMPS PAR LE Sieur STEWARD à un Correſpondant, dont il parle dans ſa Lettre, dattée d'Edimbourg le 8. de Mai 1688.</p>
+            <p>
+               <hi>Avec un Avertiſſement de M. FAGEL Pen<g ref="char:EOLhyphen"/>ſionnaire de leurs Grandes Puiſſances, Noſſei<g ref="char:EOLhyphen"/>gneurs les Etats de Hollande &amp; de Weſt-Friſe.</hi>
+            </p>
+            <p>TRADUITS DE L'ANGLOIS ET DU FLAMAND.</p>
+            <p>
+               <hi>Sur la Copie Imprimée.</hi>
+            </p>
+            <p>A LA HAYE, Chez JACQUES SCHELTUS, Imprimeur ordinaire de leurs G. P. Noſſ. les Etats de Hollande &amp; de Weſt-Friſe.</p>
+            <p>M.DC.LXXXVIII.</p>
+         </div>
+         <div xml:lang="fre" type="translator_to_the_reader">
+            <pb facs="tcp:174298:2"/>
+            <head>AVIS DU TRADUCTEUR.</head>
+            <p>CEux qui n'entendent pas l'Anglois s'étonneront de voir quelque eſpéce d'embaras &amp; d'ob<g ref="char:EOLhyphen"/>ſcurité, en certains endroits de cette Traduction, &amp; s'imagineront peut-être que la ver<g ref="char:EOLhyphen"/>ſion de l'Avertiſſement &amp; celle des Extraits ſont de deux mains: mais je déclare ici qu'il n'en eſt rien, &amp; que toute la différence vient des Originaux. Monſieur Fagel, qui agit ſincé<g ref="char:EOLhyphen"/>rement, dit les choſes comme il les penſe; &amp; l'on n'a point de peine à comprendre ſón ſens, ni à rendre naturellement une phraſe Flamande par une Françoiſe qui lui réponde. Mais pour le myſté<g ref="char:EOLhyphen"/>rieux M. Steward, qui ne parle qu'à demi-mot, il n'a pas été ſi facile de ſçavoir ce qu'il vouloit dire. Auſſi puis je proteſter que jamais verſion ne m'à donné tant de peine que celle-ci, quoi que j'euſſe la Flamande devant les yeuv; &amp; je ne me ſerois pas tiré de certains endroits, ſans le ſe<g ref="char:EOLhyphen"/>cours d'un ſçavant Anglois, qui n'entend pas moins bien nôtre Langue que la ſienne. Qui n'ad<g ref="char:EOLhyphen"/>mireroit ce P. qui revient tant de fois, &amp; qui peut ſignifier également bien Monſeigneur le <hi>Prin<g ref="char:EOLhyphen"/>ce d'Orange</hi> &amp; M. le <hi>Penſionnaire?</hi> Et ne-faut-il pas être bien verſé dans le ſtile de M. Ste<g ref="char:EOLhyphen"/>ward pour entendre que <hi>l'établiſſement de la liberté</hi> ſignifie <hi>l'abolition des Teſts &amp; des Loix Pénales.</hi> Je ne m'étonne pas qu'on lui ait fait écrire <hi>8.</hi> ou <hi>9.</hi> Lettres avant que de lui répondre; car il n'en faloit guére moins pour deviner aujuſte ce qu'il demandoit, &amp; à qui il en vouloit. En<g ref="char:EOLhyphen"/>core a-t-on eu le malheur de ne pas réûſſir, puis qu'on à crû à la Haye qu'il ſuffiſoit, pour <hi>éta<g ref="char:EOLhyphen"/>blir une</hi> parfaite <hi>liberté de conſcience,</hi> qu'on abrogeât les Loix Pénales, &amp; qu'on permit à tout le monde de ſervir Dieu ſelon ſes lumiéres; il faloit encore, ſelon le profond M. Steward, qu'on abolit les Tests, afin que les Papiſtes puſsent s'emparer de toutes les Charges, &amp; exter<g ref="char:EOLhyphen"/>miner un jour les prétendus Hérétiques; puis que ce zéle pour la Religion Catholique eſt un des points eſſenciels de la fol de <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> la ſuivent.</p>
+         </div>
+         <div xml:lang="fre" type="to_the_reader">
+            <pb n="3" facs="tcp:174298:2"/>
+            <head>AU LECTEUR.</head>
+            <p>SUR la fin du mois de Juillet paſſé, je reçûs de je ne ſçai qui par la Poſte d'Angleterre &amp; ſous un ſimple couvert une Lettre imprimée, qu'on diſoit que le Sr. <hi>Jacques Steward</hi> m'avoit écrite d'Edimbourg le 8. du mois de Mai dernier, pour répondre à ma Lettre du 5. de Novembre 1687. qui contient le ſentiment de leurs Alteſſes Monſeigneur le Prince &amp; Madame la Princeſſe d'Orange, touchant l'abolition du Teſt &amp; des Loix Pénales. Je fus fort éton<g ref="char:EOLhyphen"/>né de voir un Exemplaire imprimé d'une Lettre, qu'on diſoit que le Sr. Ste<g ref="char:EOLhyphen"/>ward m'avoit écrite, quoi que je n'en euſſe reçû aucun Exemplaire écrit n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> imprimé, de la part dud. Sr. Steward. Si cela s'appelle en bien agir; c'eſt de quoi le Public pourra juger.</p>
+            <p>Pour ce qui regarde la matiére de cette Lettre, ſçavoir l'abolition du Teſt &amp; des Loix Pénales, je ne veux plus en parler; tant parce que je n'aime pas à diſputer, que parce que j'ai vû combien mal on a pris ce que j'avois écrit là<g ref="char:EOLhyphen"/>deſſus dans ma Lettre, quoi que je l'cuſſe ſait avec toute la modeſtie &amp; le reſpect que je devois, &amp; que l'importance de la choſe pouvoit le ſouffrir. C'eſt pourquoi je ne pourrois que m'attendre à voir prendre encore plus mal les ve<g ref="char:EOLhyphen"/>ritez qu'il me faudroit dire, pour répondre à cette Lettre de M. Steward. Plût à Dieu, plût à Dieu, dis je encore, que ce qui s'eſt paſſé en Angleterre, de<g ref="char:EOLhyphen"/>puis le 5. Novembre 1687 au lieu de me confirmer dans mon ſentiment m'eût obligé de changer d'avis.</p>
+            <p>Au moins la Lettre du Sr. Steward découvre évidemment la calomnie de l'Auteur du <hi>Parlamentúm Pacificum,</hi> puis que ledit Sicur Steward y dit nette<g ref="char:EOLhyphen"/>ment que perſonne ne ſçavoit mieux le ſentiment de ſon Alteſſe Monſeigneur le Prince &amp; de S. A. R. Madame la Princeſſe, touchant l'abolition du Teſt &amp; des Loix Pénales que S. M. Britannique, &amp; que par conſéquent il n'étoit pas néceſſaire que je lui écriviſſe; d'où il s'enſuit que je n'ai rien dit ſur ce ſu<g ref="char:EOLhyphen"/>jet dans ma Lettre du 5. de Novembre 1687. ni rien attribué à leurs A. qui ne ſoit conforme à leur ſentiment; quoi que l'Auteur du <hi>Parlamentum Pa<g ref="char:EOLhyphen"/>cificum</hi> n'ait pas eu honte de m'en accuſer.</p>
+            <p>Je ne ſçache point d'avoir jamais ni écrit, ni dit, que j'euſſe fait imprimer ma Lettre du 5. Novembre. Auſſi n'ai-je pû le faire, puis que je peux proteſter en bonne conſcience de n'en avoir jamais procuré l'impreſſion Le premier Exemplaire imprimé que j'en aye vû étoit en Anglois &amp; venu d'Angleterre. Je dois pourtant avouër que ſur la fin du mois de Mars dernier, je conſentis, à la perſuaſion de mes amis, qu'on imprimât cette Lettre en Latin, qui eſt la Langue en laquelle je l'avois écrite: parce que je voyois que les Traductions Angloiſes, Françoiſes &amp; Flamandes, qu'on en avoit imprimées depuis quel<g ref="char:EOLhyphen"/>que temps, &amp; qui étoient entre les mains de tout le monde, n'étoient pas en<g ref="char:EOLhyphen"/>tiérement conformes à l'Original Latin.</p>
+            <p>Le Lecteur comprendra facilement le peu de raiſon que M. Steward a de dire, qu'étant étranger &amp; ne ſçachant pas les Loix d'Angleterre, je ne devois pas me mêler des affaires de ce Royaume; vû qu'il m'a entretenu là-deſſus
+<pb n="4" facs="tcp:174298:3"/> prés de trois heures dans ma maiſon, à la Haye, en preſence de ſon Correſpon<g ref="char:EOLhyphen"/>dant, me priant de peſer bien cette affaire, &amp; de la repreſenter à Son A. Si la choſe eſt ſi abſurde, pourquoi entrer avec moi en une ſi longue conférence ſur ce ſujet; &amp; ſi en qualité d'étranger ou autrement, je ne ſuis pas capable de ju<g ref="char:EOLhyphen"/>ger de cette matiére, pourquoi m'en parler d'une maniére ſi étenduë? pour<g ref="char:EOLhyphen"/>quoi me prier d'y penſer ſérieuſement, &amp; de la faire goûter à Son Alteſſe? &amp; pourquoi importuner ſon ami, &amp; l'accuſer de ne pas faire ſes diligences, pour m'en parler?</p>
+            <p>Mais rien n'étonnera plus le Lecteur que le peu de ſincérité du S. Steward, qui proteſte de ne m'avoir jamais écrit, ni demandé, ni même ſouhaité que je lui écriviſſe touchant cette abolition. Il eſt vrai que comme je ne ſuis pas aſ<g ref="char:EOLhyphen"/>ſez ſçavant en Anglois, pour me ſervir de cette Langue dans une affaire im<g ref="char:EOLhyphen"/>portante, ſans Interpréte; &amp; que je ne parle pas aſſez ſouvent Latin, pour in'expliquer en cette Langue, ſans quelque ſorte de peine, il ne m'a pas écrit directement, mais qu'il a falu qu'il employât un Correſpondant, à qui il a écrit pluſieurs fois en Anglois ſur ce ſujet. Il m'a ſouvent deſigné dans ces Let<g ref="char:EOLhyphen"/>tres en termes couverts, il m'a nommé une fois ouvertement, &amp; dit même qu'il m'auroit écrit, s'il n'eût jugé plus à propos de ſe ſervir de ſon ami, com<g ref="char:EOLhyphen"/>me d'un Interpréte de ce qu'il écrivoit. Il a ſollicité pluſieurs fois pour avoir ré<g ref="char:EOLhyphen"/>ponſe, &amp; accuſé ſon ami de ne preſſer pas aſſez vivement cette affaire. Il a fait valoir plus d'une fois le nom de Sa Majeſté, &amp; s'eſt ſervi dans ces Let<g ref="char:EOLhyphen"/>tres d'expreſſions, qui à mon ſens, ne peuvent ſignifier autre choſe, ſinon qu'il avoit deſſein de s'attirer une réponſe, qui contint une explication claire &amp; préciſe du ſentiment de leurs Alteſſes touchant cette abolition. Il paroît en<g ref="char:EOLhyphen"/>core qu'il attendoit cette réponſe d'un autre que de ſon ami. Autrement pour<g ref="char:EOLhyphen"/>quoi l'auroit-il tant preſſé de lui procurer une réponſe de ſon Alteſſe, appuyée de raiſons, s'il ne ſe fût attendu qu'à une réponſe de ce Correſpondant. C'eſt ce que le Lecteur pourra voir par les Extraits des Lettres qu'il a écrites en An<g ref="char:EOLhyphen"/>glois à cet ami, qu'on a traduits en François, &amp; fait imprimer dans les deux Langues.</p>
+            <p>Il faut que j'avouë ici franchement le but que j'ai eu en écrivant cette Let<g ref="char:EOLhyphen"/>tre. Comme je fais profeſſion de la Religion Réformée, &amp; que j'écrivois à un ami, qui témoignoit s'intéſſer beaucoup pour la conſervation de cette Re<g ref="char:EOLhyphen"/>ligion, je craignis que ſi je ne répondois rien à tant de preſſantes ſollicitations, on n'en prit occaſion de médire de leurs Alteſſes, comme ſi elles ne vouloient pas qu'on mit par écrit leur ſentiment touchant cette abolition, aprés l'avoir dit de bouche de la maniére du monde la plus claire &amp; la plus ſincére. C'eſt donc à ces calomnies, à quoi je n'ai pas voulu donner lieu par mon ſilence.</p>
+            <p>M. Stevvard n'a pas droit de ſe plaindre de ce que j'ai fait &amp; que je publie des Extraits des Lettres qui ſont entre les mains de ſon Ami &amp; les miennes, parce qu'il m'a contraint de faire voir à tout le monde avec combien peu d'honnêteté il traite &amp; ſon Ami &amp; moi, lors qu'il nie dans ſa Lettre de m'avoir écrit ni ſou<g ref="char:EOLhyphen"/>haité de réponſe de ma part. Il ne faut pas non plus qu'il diſe que ce ne ſont que des Extraits, car ſon Ami eſt prêt de faire imprimer les Lettres toutes entiéres, lors qu'il le ſouhaitera. C'eſt de quoi j'ai crû devoir avertir le Public, pour la défenſe de mon honneur.</p>
+            <closer>
+               <dateline>A la Haye, <date>le 25. d'Août 1688.</date>
+               </dateline>
+               <signed>Signé, GASP. FAGEL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="eng" type="letters">
+            <pb n="5" facs="tcp:174298:3"/>
+            <head>EXTRAIT DES LETTRES ECRITES EN DIVERS TEMPS par le Sieur STEWARD, au Correſpondant dont il parle dans ſa Lettre, dattée d'Edimbourg le 8. de Mai 1688.</head>
+            <div type="letter">
+               <head>Premiere Lettre du <hi>12.</hi> Juillet <hi>1688.</hi>
+               </head>
+               <p>ANd I aſſure you by all I can find here, the eſtablishment of this equall libertie is his Maties. out<g ref="char:EOLhyphen"/>moſt deſign. * * ⋆ I wish your people at the Hague doe not mistake too far both his Matie. and the Diſſenters, for as I have alreadie told you his Maties. outmoſt deſign, and have ground to believe that his Matie wil preſerve and obſerve the true rigth of ſucceſſion as a thing moſt ſacred, ſo I muſt entreat you to remarque, that the offence that ſome of the Church of England men take at addreſſing ſeems to me unaccountable, and his apprehended by the Diſſenters to proceed ſo certain<g ref="char:EOLhyphen"/>lie from their former and wonted ſpi<g ref="char:EOLhyphen"/>rit, that they beginn to think themſelves in large more hazard from the Church of Englands reexaltation then all the
+<pb n="6" facs="tcp:174298:4"/> Papiſts their advantages. And next that the Prince is thought to be abuſed by ſome there to a too great mislike of that which can never wrong him, but will in probabilitie in the event be whollie in his own power. * * I ho<g ref="char:EOLhyphen"/>pe you will conſider and make your beſt uſe of theſe things... I exſpect an account of this per firſt, I mean an answer to this letter, and pray im<g ref="char:EOLhyphen"/>prove it to the beſt advantage.</p>
+            </div>
+            <div type="letter">
+               <head>The <hi>2.</hi> Letter without a date.</head>
+               <p>That it is a thing moſt certain that his Matie. is reſolved to obſerve the ſucceſſion to the Crown as a thing moſt ſacred, and is far from all thoughts of altering the ſame, and that his Matie, is very deſirous to have the P. and Ps. of Orange to conſent to and concurr with him in eſtablishing libertie. * * So that upon the vvhole it may be feared that, if the Prince continue obſtinat in refuſing his Matie. he may fall under ſuſpicions of the greateſt part of England and of all Scotland, to be too great a favourer of the Church of England and conſequen<g ref="char:EOLhyphen"/>tlie a perſon vvhom they have rea<g ref="char:EOLhyphen"/>ſon to dread. * * * * And many think that this complyance in the Prince, migth befurther a wiſe part, both as to the conciliating of his Matie. grea<g ref="char:EOLhyphen"/>ter favour, and the begetting of an underſtanding betwixt the King and the States; and the Parliament will conſent to the rather that they have a Proteſtant Succeſſor in proſpect. * * * I can not on theſe things make any concluſion, but ſimplie leave them to your reflection and the beſt uſe you pleaſe to make of them. * * * I vvil
+<pb n="7" facs="tcp:174298:4"/> exſpect your ansvver per firſt.</p>
+            </div>
+            <div type="letter">
+               <head>Windſor Julii <hi>18.</hi>
+               </head>
+               <p>The hints I gave you in my tvvo former letters shall novv explain more fuller in this. * * And therefore I heartilie vvish that the P. and Ps. may underſtand all that you think needfull on this ſubject, it trou<g ref="char:EOLhyphen"/>bles his Matie. to find them ſo averſe from approveing this libertie and con<g ref="char:EOLhyphen"/>curring for its eſtablishement. * * So that in truth I can not ſee vvhy their Hs. should not embrace cheerfullie ſo faire an opportunitie to gratifie both his Matie. and the farr greater and bet<g ref="char:EOLhyphen"/>ter part of the Nation. * * *</p>
+               <p>Novv upon the vvhole I expect that you vvill make all y have vvritten fullie Knovvn at the Hague ſpeciallie vvith the P. But the main thing I exſpect from you is to have your mind vvhether or not his Higneſſe may be ſo diſpoſed as that a vvell choſen informer ſent to himſelfe might perfect the vvorK, and this ansvver I vvill exſpect per firſt vvherever the P. be you Knovv vvho are to be ſpoKen to and hovv. . . I again entreat your care and diſpatch in this vvith your return.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Londen</hi> 29. <hi>Julij</hi> 1687.</head>
+               <p>Mine of the 9/19 Jul. vvith my laſt of the 26. Jul: ſt. v. vvil I am ſu<g ref="char:EOLhyphen"/>re ſatisfie you fullie, for therein I have indeed ansvvered all can be objected, and have given you ſuch an accompt of the confirmation of all I have vvritt, from his Matie. himſelfe that I muſt thinK it a fatalitie if your people remain obſtinat. . . . And
+<pb n="8" facs="tcp:174298:5"/> again y aſſure you, if your people be ob<g ref="char:EOLhyphen"/>ſtinat, it vvil be fatal to the poor Diſſen<g ref="char:EOLhyphen"/>ters and I fear productive of ills yet un<g ref="char:EOLhyphen"/>heard of; and therefor pray conſider my letters and let me knovv if there be any place to receive information by a good hand. * * But hovvever let us endeavour good all vve can, and I aſſure you I have my vvarrant. Haſte your ansvver.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Windſor Ag.</hi> 5. 1687.</head>
+               <p>And in a vvord believe me if the P. vvill doe vvhat is deſired, it is the beſt ſervice to the Prote<g ref="char:EOLhyphen"/>ſtants, the higheſt obligation on his Matie. and the greateſt advancement of his ovvn intereſt that he can thinK on, but if not, then al is contrarie ⋆ * * But pray haſt an ansvver,</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Windſor Ag.</hi> 12, 1687.</head>
+               <p>I have yours of the 155 inſtant long looked for you remarque that you have received mine of the 26. Jul: but ſayes nothing of that of the 19. vvhich vvas my fulleſt, and vvhich I aſſure you vvas vvrit not only vvith permiſſion, but according to his Maties. mind ſufficientlie expreſſed, our re<g ref="char:EOLhyphen"/>ligion ought certainlie to be dearer to us then all earthlie concernes, and it is very true vvhat you ſay that miſtakes about its concerns (eſpeciail<g ref="char:EOLhyphen"/>lie in ſuch a time) may be of the greateſt importance, vvich no doubt should perſvvade to a very ſcrupulous caution, but yet I am ſatisfied that the ſimple repreſenting of vvhat vvas vvrote to you (vvich vvas all I requi<g ref="char:EOLhyphen"/>red) vvas no ſuch difficult task. * *
+<pb n="9" facs="tcp:174298:5"/> But to be plain vvith you as my Friend, your return vvas not only long delayed but I obſerve ſuch a coldneſſe in it different from the ſtrain of your for<g ref="char:EOLhyphen"/>mer that I think I miſtake not vvhen I underſtand by your Letter more then you expreſſe. * * I vvish the P. may ſee or hear this from end to end.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Lond.</hi> 22. <hi>Ag.</hi> 1687.</head>
+               <p>I have yours of the 16. inſtant, vvhen I ſaid your laſt vvas more cool, I meant not as to your affection, but as to your diligence in that affair... For y am perſuaded that the eſtabli<g ref="char:EOLhyphen"/>shing this libertie by lavv is not only the intereſt of Proteſtant Diſſenters above all others, but that his Highn: conſenting to it, vvould be its ſecure guarantie both againſt changes and abuſes. . . As you love the quiet of good men and me, leave of compli<g ref="char:EOLhyphen"/>ments and ceremonies, and diſcourſe his Highn: of all y have vvritten. . . I am novv haſtning to Scotland. . . But may return shortly, for the King is moſt deſireous to gain the Prince, and he vvill be undoubtedlie the beſt guarantie to us of this libertie, and alſo tho hinder all your fears about Po<g ref="char:EOLhyphen"/>perie.</p>
+            </div>
+            <div type="letter">
+               <pb n="10" facs="tcp:174298:6"/>
+               <head>
+                  <hi>Newwarck Ag.</hi> 26. 1687.</head>
+               <p>BUt novv I muſt tell you that thoug I knovv. . . to be my very good Friend, yet he hath not ansvve<g ref="char:EOLhyphen"/>red my exſpectation, for you ſee that to 7 of mine he gave me not one vvord of ansvver, although I told him that the ſubſtance of them vvas vvritt by the Kings allovvance and a return ex<g ref="char:EOLhyphen"/>pected by him. . . . beſide the ans<g ref="char:EOLhyphen"/>vvers he makes are either generals or compliments, vvhereas my deſire vvas that the Prince should konovv things, and that his ansvver vvith his reaſons might be underſtood. . . . . but or my Friend has delayed and ſcruffed things.</p>
+            </div>
+            <div type="letter">
+               <head>From Schotlandt Sep. <hi>24. 1687.</hi>
+               </head>
+               <p>Y Have yours of the 30. Auguſt but have delayed ſo long to ans<g ref="char:EOLhyphen"/>vver becauſe, I had vvritten other Letters to you vvhereof, I yet ex<g ref="char:EOLhyphen"/>ſpect the return. . . . My moſt hum<g ref="char:EOLhyphen"/>ble dutie to my Friend at the Hague.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Edinburg.</hi> 8. <hi>Octob.</hi> 1687.</head>
+               <p>AS for that more important affair, vvherevvith I have long troubled you, I need add no more, my conſcience beares me vvitneſſe y have dealt ſincerelie for the freedom of the Goſpell. . . I had certainlie long ere novv vvritten to Penſ. Fagel vvere it not that I judged you vvere a better interpretter of any thing I could ſay, I knovv his real concern for the Pro<g ref="char:EOLhyphen"/>teſtant Religion, and shall never for<g ref="char:EOLhyphen"/>gett his undeſerved reſpects to me, but alas that providence should be ſo ill underſtood.</p>
+            </div>
+            <div type="letter">
+               <pb n="11" facs="tcp:174298:6"/>
+               <head>
+                  <hi>Lond. Nov.</hi> 8. 1687.</head>
+               <p>I Have yours of the 1. Nov. . . . the incloſed from the Lord Pen<g ref="char:EOLhyphen"/>ſionarie ſurpriſe me vvith a teſti<g ref="char:EOLhyphen"/>monie of his favour and firiendship, and alſo of his ſincere love to the truth, and faire and candid reaſoning upon the preſent ſubject of libertie beyond vvhat y can expreſſe: He hath ſeriou<g ref="char:EOLhyphen"/>ſlie done too much for me; but the more he hath done in complyance vvith my inſignificant endeavours, the more doe I judge and eſteem his no<g ref="char:EOLhyphen"/>ble and zealous concern for Religion and Peace, vvich I am certain could only in this matter be his juſt motive. . . . I hope you vvill teſtifie to him my deep ſenſe of his favour, and moſt ſerious profeſſion of dutie vvith all di<g ref="char:EOLhyphen"/>ligence, untill I be in caſe to make his L. a direct return. I shevved the Letter to Myl. Melfort, vvho vvas ſatisfied vvith it.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Lond.</hi> 6. <hi>Nov.</hi> Wich it ſeems is by a miſtak of the date.</head>
+               <p>I Have your laſt, but have been ſo haraſſed and toiled rhat I have not had time to vvrite to you, much leſſe to Myl. Penſionarie, yet ſince my laſt I acquainted S. Sunderland vvith his anſvver as the King ordered me, but I ſee all hope from your ſide is given quite over, and men are become as cold in it here, as you arr poſitive there.</p>
+            </div>
+            <div type="letter">
+               <pb n="12" facs="tcp:174298:7"/>
+               <head>Lond. <hi>19.</hi> Nov.</head>
+               <p>BY my laſt of the 8. inſtant I gave you notice of my receipt of My lord Penſionaries Letters, and vvhat vvas and is my ſenſe of his extraordinairie kindneſſe and con<g ref="char:EOLhyphen"/>cern in that affair; ſince that time I have had the opportunitie to shevv them to the King, and at his com<g ref="char:EOLhyphen"/>mand did read to him diſtinctlie out of the English Copie all the accompt given of their Higneſſes mind tou<g ref="char:EOLhyphen"/>ching the Penall Statutes and the Teſts; and vvithall ſignified the ſum<g ref="char:EOLhyphen"/>me of vvhat vvas ſubjoined, eſpe<g ref="char:EOLhyphen"/>ciallie the reſpect and deference the<g ref="char:EOLhyphen"/>rein expreſſed to his Majeſties Perſon and Governement, but to my re<g ref="char:EOLhyphen"/>gret I find that this anſvver hath been too long delayed, and that novv the King is quite over that matter, being no vvayes ſatisfied vvith the diſtinction made of the Teſts from the Penal Lavvs, and no leſſe po<g ref="char:EOLhyphen"/>ſitive that his Higneſſe is neither to be prevailed upon, nor ſo much as be further treated vvith in this matter.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div xml:lang="fre" type="letters">
+            <head>EXTRAIT DES LETTRES ECRITES EN DIVERS TEMPS par le Sieur STEWARD, au Correſpondant dont il parle dans ſa Lettre, dattée d'Edimbourg le 8. de Mai 1688.</head>
+            <div type="letter">
+               <head>Premiere Lettre du <hi>12.</hi> Juillet <hi>1688.</hi>
+               </head>
+               <p>ET je vous aſſure qu'autant que je<g ref="char:EOLhyphen"/>puis le découvrir ici, l'établiſſe<g ref="char:EOLhyphen"/>ment de cette juſte liberté de con<g ref="char:EOLhyphen"/>ſcience eſt le dernier deſſein de Sa Ma<g ref="char:EOLhyphen"/>jeſté.... Je ſouhaite que vos gens de la Haye ne ſe trompent pas ſur l'intention de S. M. &amp; des Non-conformiſtes. Or comme je vous ai déja marqué le dernier deſſein de Sa Majeſté, &amp; que j'ai raiſon de croire que Sa Majeſté <hi>con<g ref="char:EOLhyphen"/>ſervera le vrai droit de la ſucceſſion, &amp; le regardera comme une choſe trés-ſacrée,</hi> je vous prie de remarquer que le cha<g ref="char:EOLhyphen"/>grin, que témoignent des adreſſes quel<g ref="char:EOLhyphen"/>ques Membres de l'Egliſe Anglicane; me paroît inexcuſable; que les Non-conformiſtes le regardent comme un effet ſi aſſuré de leur génie accoûtumé, qu'ils commencent à penſer qu'ils cou<g ref="char:EOLhyphen"/>rent beaucoup plus de riſque par une<g ref="char:EOLhyphen"/>nouvelle
+<pb n="6" facs="tcp:174298:4"/> élévation de l'Egliſe Angli<g ref="char:EOLhyphen"/>cane, que par tous les avantages des Papiſtes. Remarquez enſuite qu'on s'imagine qu'il y a des gens qui trom<g ref="char:EOLhyphen"/>pent le Prince, en lui inſpirant du dé<g ref="char:EOLhyphen"/>goût pour une choſe, qui, ſelon toutes les apparences, dépendra quelque jour entiérement de lui.... J'eſpére que vous conſidérerez tout cela, &amp; que vous en ferez bon uſage.... J'attens un rapport de cette affaire, je veux dire une ré<g ref="char:EOLhyphen"/>ponſe à cette Lettre par la premiére po<g ref="char:EOLhyphen"/>ſte, &amp; je vous prie de la faire réüſſir le mieux qu'il ſe pourra.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>II.</hi> Lettre ſans datte.</head>
+               <p>C'Eſt une choſe trés-certaine que <hi>Sa Majeſté eſt réſoluë de regarder la ſucceſſion à la Couronne comme une choſe trés-Sacrée, qu'elle n'a aucune pen<g ref="char:EOLhyphen"/>ſée de la changer;</hi> &amp; que Sa Majeſté ſou<g ref="char:EOLhyphen"/>haite extrémement que le Prince &amp; la Princeſſe d'Orange conſentent &amp; con<g ref="char:EOLhyphen"/>courent avec lui à l'établiſſement de cette liberté...... De ſorte qu'on a tout ſujet de craindre que ſi le Prince continuë toûjours à refuſer Sa Majeſté, la plus grande partie de l'Angleterre &amp; de l'Ecoſſe ne le ſoupçonnent d'être un trop grand fauteur de l'Egliſc An<g ref="char:EOLhyphen"/>glicane, &amp; par conſéquent une Perſon<g ref="char:EOLhyphen"/>ne qu'ils ont raiſon d'appréhender.... Bien des gens croyent que cette com<g ref="char:EOLhyphen"/>plaiſance du Prince ſeroit un moyen aſ<g ref="char:EOLhyphen"/>ſuré pour s'inſinuer plus avant dans les bonnes graces de Sa Majeſté, pour con<g ref="char:EOLhyphen"/>firmer la bonne intelligence qui eſt en<g ref="char:EOLhyphen"/>tre le Roi &amp; les Etats, &amp; pour porter le Parlement à conſentir, avec d'autant plus de facilité, à la liberté de conſcien<g ref="char:EOLhyphen"/>ce, qu'on l'aſſureroit de lui donner un <hi>Succeſſeur Proteſtant....</hi> Je ne veux rien conclure de tout cela, je vous en laiſſe le juge, &amp; vous prie d'en faire le meil<g ref="char:EOLhyphen"/>leur uſage que vous pourrez. J'attens
+<pb n="7" facs="tcp:174298:4"/> vôtre réponſe par le premier ordinaire.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>III.</hi> A Windſor le <hi>18.</hi> de Juillet.</head>
+               <p>J'Expliquerai preſentement plus au long &amp; d'une maniére plus claire les choſes que je vous ai ſuggérées dans mes deux précédentes Lettres.... C'eſt pourquoi <hi>je ſouhaite paſſionnément que vous découvriez</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> P. <hi>&amp;</hi> Pſ. <hi>tout ce que vous jugerez néceſſaire ſur ce ſujet;</hi> Sa Majeſté a du chagrin de les trouver ſi éloignez d'approuver cette liberté, &amp; de concourir à ſon établiſſement..... De ſorte qu'à dire le vrai, je ne ſçau<g ref="char:EOLhyphen"/>rois voir pourquoi leurs Alteſſes n'em<g ref="char:EOLhyphen"/>braſſent pas avec joie une ſi belle occa<g ref="char:EOLhyphen"/>ſion de faire plaiſir à Sa Majeſté; &amp; à la plus grande &amp; la meilleure partie de la Nation....</p>
+               <p>Pour concluſion, <hi>je m'attens que vous ferez ſçavoir tout ce que je vous ai écrit à la Haye, particuliérement au</hi> P. Mais ce que j'eſpére principalement de vous, c'eſt de me dire ſi vous croyez que Son Alteſſe fût d'humeur qu'on lui envoyât une Perſonne choiſie &amp; bien informée, pour mettre la derniére main à cette af<g ref="char:EOLhyphen"/>faire. J'attens vôtre réponſe par le pre<g ref="char:EOLhyphen"/>mier ordinaire. Vous ſçavez où eſt le P. quand c'eſt qu'on lui peut parler, &amp; comment... Je vous prie encore un coup d'être ſoigneux &amp; de vous hâter de me répondre.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>IV.</hi> A Londres le <hi>29.</hi> de Juillet <hi>1687.</hi>
+               </head>
+               <p>JE ſuis ſûr que mes Lettres du 9/19 &amp; du 26. de Juillet, ſtile vieux, vous auront pleinement ſatisfait. Car en effet, j'y ai répondu à tout ce qu'on peut objecter, &amp; je vous ai donné de ſi for<g ref="char:EOLhyphen"/>tes raiſons pour confirmer <hi>tout ce que j'ai écrit de la part de Sa Majeſté même,</hi> que je m'imagine qu'il y aura de la fata<g ref="char:EOLhyphen"/>lité ſi vos gens demeurent obſtinez... Je
+<pb n="8" facs="tcp:174298:5"/> vous aſſure encore une fois que ſi vos gens continuent à s'obſtiner, <hi>cette opi<g ref="char:EOLhyphen"/>niâtreté ſera fatale aux pauvres Non<g ref="char:EOLhyphen"/>conformiſtes, &amp; qu'elle produira des maux inoüis.</hi> C'eſt pourquoi je vous prie de faire réflexion ſur mes Lettres, &amp; de me marquer, s'il y auroit lieu <hi>d'être in<g ref="char:EOLhyphen"/>formé de bonne main...</hi> Quoi qu'il en ſoit, faites de vôtre mieux. Je vous promets que j'ai un bon garant. Ne per<g ref="char:EOLhyphen"/>dez point de temps à me répondre.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>V.</hi> A Windſor le <hi>5.</hi> d'Août <hi>1687.</hi>
+               </head>
+               <p>EN un mot, croyez-moi; ſi le P. fait ce qu'on ſouhaite, c'eſt le plus grand ſervice qu'il puiſſe rendre aux Proteſtans, la plus grande obliga<g ref="char:EOLhyphen"/>tion que Sa Majeſté lui puiſſe avoir, &amp; un plus grand avancement de ſes pro<g ref="char:EOLhyphen"/>pres intérêts, qu'il ne peut s'imaginer: ſinon; <hi>ce ſera tout le contraire....</hi> Hâ<g ref="char:EOLhyphen"/>tez-vous, je vous prie, de me faire ré<g ref="char:EOLhyphen"/>ponſe.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>VI.</hi> A Windſor le <hi>12.</hi> Août <hi>1687.</hi>
+               </head>
+               <p>A Prés avoir long-temps attendu, j'ai enfin reçù vôtre Lettre du 5/15 de ce mois. Vous m'apprenez que vous avez reçû la mienne du 26. de Juillet, mais vous ne me dites rien de celle du 19. qui étoit la plus complette, &amp; dont je vous aſſure, que je l'avois écrite, <hi>non ſeulement par permiſſion, mais auſſi conformément à la penſée de Sa Maje<g ref="char:EOLhyphen"/>ſté, qui étoit ſuffiſamment exprimée.</hi> Nô<g ref="char:EOLhyphen"/>tre Religion doit certainement nous être plus chére que tous les intérêts mondains. Ce que vous dites eſt enco<g ref="char:EOLhyphen"/>re fort vrai que les fautes qu'on com<g ref="char:EOLhyphen"/>met dans ces ſortes de choſes, princi<g ref="char:EOLhyphen"/>palement en ce temps-ci, ſont de la derniére conſéquence, &amp; que cela doit porter à y agir avec une précaution, qui aille juſqu'au ſcrupule. Cela ne m'em<g ref="char:EOLhyphen"/>pêche
+<pb n="9" facs="tcp:174298:5"/> pourtant pas d'être perſuadé, que de repreſenter ſimplement ce que je vous avois écrit, qui étoit tout ce que je demandois, n'étoit pas une choſe fort difficile à faire... Mais pour vous parler franchement, comme à un ami, outre que vôtre réponſe a demeuré long-temps à venir, j'y remarque tant de froideur, &amp; un ſtile ſi différent de celui dont vous aviez accoûtumé de m'écrire, que je crois de ne me point tromper, en y entendant plus que vous n'en dites. Je ſouhaite que le P. voee, ou entende lire, cette Lettre, d'un bout à l'autre.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>VII.</hi> A Londres le <hi>22.</hi> d'Août. <hi>1687.</hi>
+               </head>
+               <p>J'Ai reçû vôtre Lettre du 16. de ce mois. Lors que j'ai dit qu'il y avoit plus de froideur dans la derniére Lettre que vous m'aviez écrite, que dans les autres, je n'ai pas eu égard à vôtre affection, mais à vôtre diligen<g ref="char:EOLhyphen"/>ce dans l'affaire dont il s'agit. . . . Je ſuis perſuadé que l'établiſſement de cette liberté; par une Loi, eſt non ſeule<g ref="char:EOLhyphen"/>ment de l'intérêt des Proteſtans Non<g ref="char:EOLhyphen"/>conformiſtes plus que des autres, mais auſſi que Son Alteſſe y donnant ſon conſentement, ſera un ſur garant con<g ref="char:EOLhyphen"/>tre toutes ſortes de changemens &amp; d'a<g ref="char:EOLhyphen"/>bus... Puis que vous aimez mon repos &amp; celui des gens de bien, laiſſez-là les complimens, &amp; dites à ſon Alteſſe tout ce que j'ai écrit... Je ſuis ſur mon de<g ref="char:EOLhyphen"/>part pour l'Ecoſſe... Mais je retour<g ref="char:EOLhyphen"/>nerai bien-tôt; parce que le Roi ſou<g ref="char:EOLhyphen"/>haite paſſionnément de gagner le Prin<g ref="char:EOLhyphen"/>ce, qui ſera indubitablement le meil<g ref="char:EOLhyphen"/>leur garant que nous puiſſions avoir de cette liberté, &amp; qui en même temps diſſipera toutes vos craintes, concer<g ref="char:EOLhyphen"/>nant le Papiſme.</p>
+            </div>
+            <div type="letter">
+               <pb n="10" facs="tcp:174298:6"/>
+               <head>
+                  <hi>VIII.</hi> A Newwarck le <hi>26.</hi> Août <hi>1687.</hi>
+               </head>
+               <p>MAis il faut que je vous diſe que quoi que je ſçache que... eſt fort de mes Amis, il n'a pas néan<g ref="char:EOLhyphen"/>moins répondu à mon attente; puis que vous voyez qu'il n'a pas fait un mot de réponſe à ſept de mes Lettres; quoi que je lui eus marqué que la ſub<g ref="char:EOLhyphen"/>ſtance de ces Lettres étoit écrite de l'a<g ref="char:EOLhyphen"/>veu du Roi, &amp; qu'il en attendoit la ré<g ref="char:EOLhyphen"/>ponſe... Au lieu de me répondre pré<g ref="char:EOLhyphen"/>ciſément, il s'eſt tenu dans des expreſ<g ref="char:EOLhyphen"/>ſions générales, ou des complimens; en<g ref="char:EOLhyphen"/>core que je l'euſſe prié de faire ſçavoir l'affaire au Prince, &amp; de me mander ſa réponſe, &amp; les raiſons qu'il en avoit... Mais mon Correſpondant a uſé de re<g ref="char:EOLhyphen"/>miſes, ou n'a fait que toucher l'affaire.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>IX.</hi> D'Ecoſſe le <hi>24.</hi> de Septembre <hi>1687.</hi>
+               </head>
+               <p>I'Ai reçû vôtre Lettre du 30. d'Août, mais j'ai différé juſqu'ici de vous ré<g ref="char:EOLhyphen"/>pondre; parce que je vous ai écrit d'autres Lettres auſquelles j'eſpere en<g ref="char:EOLhyphen"/>core que vous me répondrez... Mes baiſemains à mon Ami de la Haye.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>X.</hi> d'Edimbourg le <hi>8.</hi> d'Octobre <hi>1687.</hi>
+               </head>
+               <p>SUr l'affaire importante, pour la<g ref="char:EOLhyphen"/>quelle je vous ai donné tant de pei<g ref="char:EOLhyphen"/>ne, je ne vois pas qu'il ſoit néceſſaire d'y rien ajoûter. Ma conſcience me rend témoignage que j'ai agi ſincére<g ref="char:EOLhyphen"/>ment pour la liberté de l'Evangile... <hi>Certes il y a long-temps que j'aurois écrit au P.</hi> FAGEL, <hi>ſi je n'avois crû qu'il va<g ref="char:EOLhyphen"/>loit mieux que vous fuſſiez l'Interprete de tout ce que je dirois.</hi> Je ſçai quel intérêt il prend à la Religion Proteſtante, &amp; je n'oublierai jamais les égards qu'il a eus pour moi, &amp; que je n'ai pas méritez. Mais hélas, qui l'auroit crû que mes
+<pb n="11" facs="tcp:174298:6"/> bonnes intentions fuſſent ſi mal expli<g ref="char:EOLhyphen"/>quées.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>XI.</hi> A Londres le <hi>8.</hi> de Novembre <hi>1687.</hi>
+               </head>
+               <p>J'ai reçû vôtre Lettre du 1 de No<g ref="char:EOLhyphen"/>vembre... L'incluſe de M. le Pen<g ref="char:EOLhyphen"/>ſionnaire m'a ſurpris plus que je ne ſçaurois dire, par les témoignages de ſa bonté &amp; de ſon amitié, par ſon amour ſincére pour la verité, &amp; par ſes raiſonnemens ſolides &amp; deſintéreſſez ſur la liberté dont il s'agit. Certes il a trop fait pour moi: mais plus il a eu de condeſcendance pour mes efforts im<g ref="char:EOLhyphen"/>puiſſans, plus j'eſtime l'air noble &amp; le zele avec lequel il porte les intérêts de la Religion &amp; de la Paix, que je m'aſſu<g ref="char:EOLhyphen"/>re être les ſeuls motifs qui l'ont fait écrire ſur ce ſujet.... J'eſpére que vous lui témoignerez au plûtôt le profond reſſentiment que j'ai de cette faveur, &amp; l'obligation ſincére que je lui en ai, juſ<g ref="char:EOLhyphen"/>qu'à-ce que je ſois en état de l'en re<g ref="char:EOLhyphen"/>mercier, par une réponſe directe.... J'ai montré la Lettre à Milord <hi>Melford qui en étoit ſatisfait.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <head>XII. <hi>A Londres le</hi> 6. <hi>de Novembre.</hi> Il ſemble qu'il y ait faute dans la datte.</head>
+               <p>J'Ai reçû vôtre derniére Lettre; mais je ſuis ſi las &amp; ſi fatigué que je n'ai pas eu le temps de vous écrire plus au long, &amp; encore moins à M. le Penſionnaire. Néanmoins, depuis ma derniére Lettre, j'ai fait voir la ré<g ref="char:EOLhyphen"/>ponſe de M. Fagel au S. Sunderland, ſelon l'ordre de Sa Majeſté. Mais je vois que toute eſpérance eſt perduë de vôtre côté, &amp; qu'on eſt auſſi froid ici, qu'on eſt poſitif par de-là.</p>
+            </div>
+            <div type="letter">
+               <pb n="12" facs="tcp:174298:7"/>
+               <head>
+                  <hi>XIII.</hi> A Londres le <hi>19.</hi> de Novembre.</head>
+               <p>PAr ma derniére Lettre du 8. de ce mois, je vous marquai que j'avois reçû la Lettre de Monſieur le Penſionnaire; quel étoit &amp; quel eſt en<g ref="char:EOLhyphen"/>core le reſſentiment extraordinaire que j'ai de ſa condeſcendance &amp; de la part qu'il a priſe en cette affaire. J'ai eu depuis occaſion de la montrer au Roi, &amp; je lui ai lû diſtinctement dans la copie Angloiſe tout ce qui concernoit le ſentiment de leurs Alteſſes, tou<g ref="char:EOLhyphen"/>chant les Loix Pénales &amp; les Teſts. Je lui ai fait un abregé du reſte; &amp; je n'ai pas oublié, ſur tout, de lui parler du reſpect &amp; de la déférence qu'on y voit pour la Perſonne de Sa Majeſté &amp; pour le Gouvernement. Mais je trouve, à mon grand regret, qu'on a trop tardé à faire réponſe, que le Roi abandonne cette affaire, n'étant pas content de la diſtinction qu'on a faite, entre les Teſts &amp; les Loix Pénales; parce qu'il eſt perſuadé que rien ne peut faire changer ſon Alteſſe, &amp; qu'elle n'en veut plus entendre parler.</p>
+            </div>
+            <trailer>FIN.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
